@@ -28,6 +28,14 @@ AI Launcherは、先進的な音声認識と自然言語処理技術を統合し
 
 ---
 
+## 📺 デモ
+
+<div align="center">
+  <img src="screenshots/demo.gif" alt="AI Launcher デモ" width="300"/>
+</div>
+
+---
+
 ## 📱 主な機能
 
 ### 🎤 音声コントロール

@@ -28,6 +28,14 @@ AI Launcher is an AI-powered Android launcher that integrates advanced voice rec
 
 ---
 
+## 📺 Demo
+
+<div align="center">
+  <img src="screenshots/demo.gif" alt="AI Launcher Demo" width="300"/>
+</div>
+
+---
+
 ## 📱 Main Features
 
 ### 🎤 Voice Control
