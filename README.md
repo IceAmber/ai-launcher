@@ -59,16 +59,6 @@ AI Launcher is an AI-powered Android launcher that integrates advanced voice rec
 
 ---
 
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="screenshots/main.png" width="250" alt="Main Screen"/>
-  <img src="screenshots/settings.png" width="250" alt="Settings"/>
-  <img src="screenshots/wallpaper.png" width="250" alt="Wallpaper Settings"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Core Technologies
@@ -210,51 +200,7 @@ Model: deepseek-chat
 
 ## 🤝 Contributing
 
-Welcome to contribute code, report issues, or suggest improvements!
-
-### Development Requirements
-- Android Studio Hedgehog or higher
-- JDK 17+
-- Android SDK 34
-- Kotlin 1.9+
-
-### Development Steps
-1. Fork this repository
-2. Create feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push branch: `git push origin feature/amazing-feature`
-5. Submit Pull Request
-
-### Code Standards
-- Follow Kotlin official code style
-- Use meaningful commit messages
-- Add necessary unit tests
-- Keep code clean and readable
-
-### Translation Contributions
-Currently supports Chinese and English. Welcome translations in other languages!
-
----
-
-## 📋 Roadmap
-
-### v1.1.0 (Planned)
-- [ ] Widget support (weather, calendar, music, etc.)
-- [ ] Gesture control (double tap, swipe, etc.)
-- [ ] App groups and folders
-- [ ] More themes and icon packs
-
-### v1.2.0 (Planned)
-- [ ] AI conversation history management
-- [ ] Custom voice wake words
-- [ ] Multi-language support (Japanese, Korean, etc.)
-- [ ] Performance optimization and memory management
-
-### v2.0.0 (Future)
-- [ ] Plugin system
-- [ ] Cross-device sync
-- [ ] Advanced AI assistant features (schedule management, email handling, etc.)
-- [ ] Tablet and foldable screen optimization
+Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ---
 
