@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AI桌面启动器</string>
+    <string name="enter_command_hint">输入命令 (例如: \'打开微信\')</string>
+    <string name="command_placeholder">打开微信</string>
+    <string name="processing">处理中...</string>
+    <string name="frequently_used">常用应用</string>
+    <string name="speech_permission_title">需要麦克风权限</string>
+    <string name="speech_permission_message">AI桌面启动器需要访问您的麦克风来实现语音命令功能。</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="cancel">取消</string>
+    <string name="mic_content_description">语音输入</string>
+    <string name="mic_off_content_description">需要麦克风权限</string>
+</resources>
