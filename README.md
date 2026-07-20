@@ -20,9 +20,7 @@
 
 ## 🌟 Introduction
 
-AI Launcher is an open-source Android home screen replacement built with
-Kotlin and Jetpack Compose. It combines app launching, voice commands,
-personalized layouts, and optional AI model integration in one launcher.
+AI Launcher is an LLM-powered Android home screen launcher that lets users control their phone and launch applications through natural language and voice commands.
 
 ### ✨ Core Philosophy
 
