@@ -1,4 +1,7 @@
-# AI Launcher - スマートデスクトップアシスタント
+# AI Launcher：AI搭載Androidホームランチャー
+
+> 音声操作、スマートなアプリ起動、壁紙カスタマイズ、
+> ローカルLLMに対応したオープンソースのAndroidホームランチャーです。
 
 <div align="center">
 
@@ -17,7 +20,10 @@
 
 ## 🌟 プロジェクト紹介
 
-AI Launcherは、先進的な音声認識と自然言語処理技術を統合したAI搭載のAndroidランチャーです。音声コマンドでスマートフォンを操作し、アプリを素早く起動し、よりスマートで効率的なモバイルライフを楽しめます。
+AI Launcherは、KotlinとJetpack Composeで開発されたオープンソースの
+Androidホームランチャーです。標準ホームアプリとして利用でき、
+アプリ起動、音声コマンド、レイアウトのカスタマイズ、
+AIモデル連携を一つに統合します。
 
 ### ✨ コアコンセプト
 
@@ -227,23 +233,7 @@ Model: deepseek-chat
 
 ## 📄 ライセンス
 
-このプロジェクトは **Apache License 2.0** の下でライセンスされています。
-
-```
-Copyright 2026 AI Launcher
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+Licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
