@@ -1,5 +1,8 @@
-# AI Launcher - 智能桌面助手
+# AI Launcher：基于 AI 的 Android 智能桌面
 
+> 一款开源的 AI Android 桌面启动器，支持语音控制、智能应用启动、
+> 个性化壁纸以及可选的本地大模型能力。
+> 
 <div align="center">
 
 ![AI Launcher](https://img.shields.io/badge/AI-Launcher-blue?style=for-the-badge)
@@ -227,23 +230,7 @@ Model: deepseek-chat
 
 ## 📄 许可证
 
-本项目采用 **Apache License 2.0** 开源协议。
-
-```
-Copyright 2026 AI Launcher
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+Licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
